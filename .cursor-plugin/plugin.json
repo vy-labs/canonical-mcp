@@ -1,0 +1,34 @@
+{
+  "name": "canonical-company-search",
+  "displayName": "Canonical Company Search",
+  "description": "Find the companies others miss — verified, long-tail company search. Describe what you want (or pass structured filters) and get an LLM-verified, domain-keyed shortlist your agent can act on.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Canonical",
+    "email": "support@trycanonical.ai"
+  },
+  "publisher": "Canonical",
+  "homepage": "https://trycanonical.ai",
+  "repository": "https://github.com/vy-labs/canonical-mcp",
+  "license": "MIT",
+  "logo": "https://trycanonical.ai/static/logo-mark.svg",
+  "keywords": [
+    "company-data",
+    "company-search",
+    "sales-intelligence",
+    "market-research",
+    "investor-research",
+    "recruiting",
+    "b2b",
+    "agent-tools",
+    "mcp"
+  ],
+  "category": "data",
+  "tags": [
+    "company-data",
+    "search",
+    "research",
+    "b2b"
+  ],
+  "mcpServers": "./mcp.json"
+}

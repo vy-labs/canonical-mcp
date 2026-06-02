@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "canonical": {
+      "url": "https://trycanonical.ai/mcp",
+      "type": "streamable-http"
+    }
+  }
+}
