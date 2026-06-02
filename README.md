@@ -74,7 +74,7 @@ https://trycanonical.ai/documentation/mcp.
 ## Auth & pricing
 
 - **Auth:** OAuth 2.0 with dynamic client registration (scope `search`). Read-only — no destructive operations.
-- **Free tier:** 100 credits/day, no credit card required.
+- **Free tier:** 250 credits on signup, no credit card required.
 - **Docs:** https://trycanonical.ai/documentation/mcp
 - **Privacy:** https://trycanonical.ai/privacy-policy · **Terms:** https://trycanonical.ai/terms
 - **Support:** support@trycanonical.ai
